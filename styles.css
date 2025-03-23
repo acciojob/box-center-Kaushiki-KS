@@ -5,6 +5,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	background-color: #f0f0f0;
+	margin: 0;
 }
 div.center-box{
 	background-color: lightblue;
@@ -17,4 +18,5 @@ div.center-box{
 	border: 2px solid black;
 	font-size: 16px;
 	font-weight: bold;
+	text-align: center;
 }
