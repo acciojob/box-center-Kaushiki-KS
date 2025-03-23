@@ -6,7 +6,7 @@ body{
 	align-items: center;
 	background-color: #f0f0f0;
 }
-.center-box{
+div.center-box{
 	background-color: lightblue;
 	color: purple;
 	width: 200px;
@@ -14,5 +14,5 @@ body{
 	display:flex;
 	justify-content:center;
 	align-items: center;
-	border: 2px thick black;
+	border: 2px solid black;
 }
