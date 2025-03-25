@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
   body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
+		margin: 0;
+		background-color: #f0f0f0;
         }
         div.center-box {
             width: 200px;
@@ -19,4 +19,9 @@
             color: purple;
             font-size: 16px;
             font-weight: bold;
+			position: absolute;
+			top: 50%;
+			left: 50%;
         }
+
+
